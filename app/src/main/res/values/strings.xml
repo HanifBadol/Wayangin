@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Wayangin</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_quiz">Quiz</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sejarah">Sejarah</string>
+    <string name="jenis">Jenis Wayang</string>
+    <string name="video">Video Pewayang</string>
+    <string name="about">Tentang Aplikasi</string>
+    <string name="quiz1">Quiz 1</string>
+    <string name="quiz" />
+    <string name="ketquiz">Tebak Sejarah Wayang</string>
+    <string name="quiz2">Quiz 2</string>
+    <string name="kuiz">Tebak Gambar Wayang</string>
+    <string name="home">Menu Utama</string>
+    <string name="judul_sejarah">Nama Sejarah</string>
+    <string name="selengkapnya">Selengkapnya</string>
+    <string name="sejarah_wayang">Sejarah Wayang</string>
+    <string name="close">Tutup</string>
+    <string name="wayang_orang_disebut_juga_dengan_istilah_wayang_wong_bahasa_jawa_adalah_wayang_yang_dimainkan_dengan_menggunakan_orang_sebagai_tokoh_dalam_cerita_wayang_tersebut_wayang_orang_diciptakan_oleh_sultan_hamangkurat_i_pada_tahun_1731_sesuai_dengan_nama_sebutannya_wayang_tersebut_tidak_lagi_dipergelarkan_dengan_memainkan_boneka_boneka_wayang_wayang_kulit_yang_biasanya_terbuat_dari_bahan_kulit_kerbau_ataupun_yang_lain_akan_tetapi_menampilkan_manusia_manusia_sebagai_pengganti_boneka_boneka_wayang_tersebut_mereka_memakai_pakaian_sama_seperti_hiasan_hiasan_yang_dipakai_pada_wayang_kulit_supaya_bentuk_muka_atau_bangun_muka_mereka_menyerupai_wayang_kulit_kalau_dilihat_dari_samping_sering_kali_pemain_wayang_orang_ini_diubah_dihias_mukanya_dengan_tambahan_gambar_atau_lukisan_cerita_cerita_yang_diangkat_dalam_wayang_orang_berbasis_kepada_due_epic_cerita_kolosal_yaitu_mahabharata_dan_ramayana_hal_yang_menarik_dari_pertunjukan_wayang_orang_ini_adalah_adanya_tari_kolosal_atau_individu_per_pemain_di_setiap_jeda_cerita_selain_itu_wayang_orang_juga_menampilkan_tokoh_punakawan_sebagai_pencair_suasana_yang_merupakan_penggambaran_keadaan_kawulo_alit_atau_masyarakat_secara_umum_dan_abdi_dalem_pertunjukan_wayang_orang_yang_masih_ada_saat_ini_salah_satunya_adalah_wayang_orang_barata_di_kawasan_pasar_senen_jakarta_taman_mini_indonesia_indah_taman_sriwedari_solo_ngesti_pandawa_di_taman_budaya_raden_saleh_semarang_dan_lain_lain">Wayang orang disebut juga dengan istilah wayang wong (bahasa Jawa) adalah wayang yang dimainkan dengan menggunakan orang sebagai tokoh dalam cerita wayang tersebut. Wayang orang diciptakan oleh Sultan Hamangkurat I pada tahun 1731. Sesuai dengan nama sebutannya, wayang tersebut tidak lagi dipergelarkan dengan memainkan boneka-boneka wayang (wayang kulit yang biasanya terbuat dari bahan kulit kerbau ataupun yang lain), akan tetapi menampilkan manusia-manusia sebagai pengganti boneka-boneka wayang tersebut. Mereka memakai pakaian sama seperti hiasan-hiasan yang dipakai pada wayang kulit. Supaya bentuk muka atau bangun muka mereka menyerupai wayang kulit (kalau dilihat dari samping), sering kali pemain wayang orang ini diubah/dihias mukanya dengan tambahan gambar atau lukisan. Cerita-cerita yang diangkat dalam wayang orang berbasis kepada due epic cerita kolosal yaitu Mahabharata dan Ramayana. Hal yang menarik dari pertunjukan wayang orang ini adalah adanya tari kolosal atau individu per pemain di setiap jeda cerita. Selain itu wayang orang juga menampilkan tokoh punakawan sebagai pencair suasana yang merupakan penggambaran keadaan kawulo alit atau masyarakat secara umum dan abdi dalem. Pertunjukan wayang orang yang masih ada saat ini, salah satunya adalah wayang orang Barata (di kawasan Pasar Senen, Jakarta), Taman Mini Indonesia Indah, Taman Sriwedari Solo, Ngesti Pandawa di Taman Budaya Raden Saleh Semarang, dan lain-lain.</string>
+    <string name="quizgbr">Tebak Gambar</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Belajar Wayang!</string>
+    <string name="slide_1_desc">Disini Kita Mempelajari Tentang Sejarah dan Macam-Macam Wayang di Indonesia</string>
+
+    <string name="slide_2_title">Video</string>
+    <string name="slide_2_desc">Terdapat Video Pewayangan</string>
+
+    <string name="slide_3_title">Jenis - Jenis Wayang</string>
+    <string name="slide_3_desc">Mengenal Jenis-Jenis Wayang di Indonesia</string>
+
+    <string name="slide_4_title">Quiz</string>
+    <string name="slide_4_desc">Mengasa Kemampuan Pengetahuanmu Tentang Materi Wayang</string>
+
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+    <string name="tebak">Tebak Sejarah Wayang</string>
+
+</resources>
